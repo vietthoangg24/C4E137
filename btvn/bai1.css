@@ -1,0 +1,55 @@
+.div-0 {
+    border: 1px solid blue;
+    height: 350px;
+    width: 800px;
+    background-color: lightblue;
+    position: relative;
+}
+
+.div-1 {
+    border: 1px solid #ee5253;
+    height: 200px;
+    width: 700px;
+    background-color: lightsalmon;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.div-3 {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.btn-delete {
+    background-color: #ee5253;
+    border-radius: 5px;
+    border: 1px solid blue;
+    font-size: 20px;
+
+}
+
+.btn-keep {
+    background-color: #2e86de;
+    border-radius: 5px;
+    border: 1px solid blue;
+    font-size: 20px;
+
+}
+
+.btn-delete:hover {
+    background-color: white;
+    color: #ee5253;
+}
+
+.box-1{
+    /* border: 1px solid #ee5253; */
+    width: 200px;
+    height: 100px;
+    display: none;
+    
+    
+}
+.btn-delete:hover .box-1 {
+    display: block;
+    
+}

@@ -1,0 +1,57 @@
+form{
+
+    width: 80%;
+    border: 1px solid #b2bec3;
+    border-collapse: collapse;
+    margin-left: 30;
+}
+
+button{
+    background-color:#0984e3; 
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 12px;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+input{
+    border: 1px solid #b2bec3;
+    box-sizing: border-box;
+    padding: 1px;
+    border-radius: 5px;
+
+}
+
+
+.input{
+    width: 1250px;
+    height: 40px;
+    margin-left: 25px;
+}
+.fname{
+    width: 625px;
+    height:40px;
+    margin-right: 50px;
+    margin-left: 25px;
+}
+.lname{
+    width: 575px;
+    height:40px;
+    
+}
+p{
+    margin-left: 25px;
+}
+textarea{
+    margin-left: 25px;
+    width: 1250px;
+}
+h2{
+    margin-left: 25px;
+    font-size: 35px;
+    
+}

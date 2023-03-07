@@ -1,0 +1,139 @@
+/*viet code css */
+/* chon tat ca the <h1> trong web */
+/* h1 {
+    color:red;
+
+} */
+ 
+
+/* chion the co id special-heading*/
+/* #special-heading{
+       color:orangered;
+}
+
+p {
+    color:pink;
+}
+
+/* . danh cho class*/
+/* .text-blue{
+
+    color:blue;
+}
+
+div {
+    color:blueviolet;
+}
+
+.text-brown{
+    color:purple !important;
+}
+
+#my-div{
+    color:cornflowerblue;
+} */ */
+
+/*0 0 0*/
+
+
+/*1 important
+2 inline style
+3 do uu tien cua selector
+4 internal-external*/
+
+
+/*dinh dang text*/
+/* #test-text{
+font-size:100px; /*co chu*/
+/* font-style:italic; /*kieu chu */
+/* text-decoration:line-through ; /*trang tri cho chu */
+/* font-family:'cambria' ; font chu */
+/* text-transform:uppercase ; bien doi chu */ */ */ */
+
+}
+
+/*nhung thuoc tinh-gia tri=> dinh ang khoi noi dung (box model)*/
+
+
+    
+   
+/* #box-box{
+    background-color:blueviolet;
+
+    width: 50%;
+    height: 170px ;
+    border: 10px solid green;
+    border-radius: 10px;
+    padding: 20px;
+    
+
+    box-sizing:border-box;
+} */
+
+
+dev{
+    font-size:30px ;
+}
+
+#d2-2{
+    color:green;
+    font-style: italic;
+}
+
+.dev1-1{
+    color:red;
+    text-transform: uppercase;
+
+}
+
+
+table{
+    width:500px;
+    border: 1px solid black;
+    
+}
+
+tr{
+    border-bottom: 1px solid gray; 
+}
+
+
+#khai-bao{
+    background-color: blue;
+    color:white;
+    font-weight: 600;
+}
+
+/* tr{
+    border-collapse: collapse;
+} */
+
+.d2-4{
+    background-color: gray;
+}
+
+.ho-ten{
+    width:40%
+}
+
+
+
+#form1{
+    background-color: pink;
+    border:4px solid gray;
+    width:600px;
+    padding: 20px;
+}
+
+.input-form{
+    height:30px;
+    border:gray ;
+    border-radius: 5dx;
+    width:300px;
+  margin-left: auto;
+}
+
+
+
+
+

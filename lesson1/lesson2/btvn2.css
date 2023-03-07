@@ -1,0 +1,36 @@
+table{
+    width: 50%;
+    border: 2px solid #ccc;
+    border-collapse: collapse;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 1px;
+}
+tr{
+    border-bottom: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+td{
+    height: 30px;
+    border-bottom: #ccc 1px solid;
+}
+.button-1{
+    background-color: blue;
+}
+
+.button-2{
+    background-color: red;
+}
+
+.button-3{
+    background-color: grey;
+}
+
+button{
+    color: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 1px;
+    border-radius: 5px;
+}

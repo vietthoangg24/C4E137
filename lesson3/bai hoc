@@ -1,0 +1,15 @@
+margin : top right  bottom left 
+border : top right bottom left 
+padding 
+content
+
+phan tử trên  trang web có 3 kiểu :
+   -block(div ; p ; section ; heading): chiều rộng mặc định chiếm 100% phần tử chứa nó 
+   -inline-block (img): chiểu  rộng mặc định phụ thuộc vào nội 
+   => block ; inline block => điểu chỉnh được kích thước width, height
+
+   inline (b ,i,span): chiểu rộng mặc định phụ thuộc vào nội dung, không chỉnh được kích thước
+
+
+   position: fixed 
+   position: sticky

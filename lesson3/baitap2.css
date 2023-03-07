@@ -1,0 +1,49 @@
+.div-0{
+    height: 40px;
+    text-align: center;
+    background-color: blanchedalmond;
+    border: 1px solid orange;
+    margin-bottom: 10px;
+    line-height: 40px;
+    position: relative;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar{
+    position: fixed;
+    width: 250px;
+    height: 100vh;
+    background-color: cornflowerblue;
+    border-right:1px solid blue ;
+    top:0;
+    left:0;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.div-0:hover .users-1 {
+    display: block;
+}
+
+.users-1{
+    display: none;
+    width:200px;
+    top: 0px;
+    position: absolute;
+   left: 240px;
+   width: 200px;
+}
+
+.div-1{
+   
+    text-align: center;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: azure;
+    line-height: 40px;
+}
