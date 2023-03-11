@@ -1,0 +1,250 @@
+/* .my-div{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+
+.my-div-1{
+    display: inline;
+    border: 1px solid black;
+}
+
+.my-div-2{
+    display: inline-block;
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+
+.mu-div-3{
+    display: block;
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+} */
+
+/* .flex-box{
+    display: flex; /*thay doi bo cuc cua noi dung */
+    /* width: 700px;
+    height: 500px;
+    border: 2px solid black;
+    flex-direction: row;
+    /* align-items: stretch;
+    
+    justify-content:space-between; */
+ /* flex-wrap: wrap-reverse;
+}
+
+.flex-1{
+    width: 100px;
+    height: 80px;
+    border: 1px solid green;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.flex-1.my-1{
+    width: 200px;
+    height: 200px;
+} */ */ */
+
+
+/* .footer {
+    height: 200px;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
+
+.footer-content-1{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    padding: 10px;
+    align-items: stretch;
+    height: 60px;
+}
+
+.footer-btn-group {
+    background-color: green;
+   width:60%;
+}
+
+
+.footer-contact{
+    background-color: chartreuse;
+    width: 37%;
+}
+
+.footer-about{
+    text-align: center;
+    text-align: center;
+}
+
+.footer-content-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.footer-like-btn */
+
+body{
+    margin: 0;
+}
+.header {
+    position: sticky;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    justify-content: space-between;
+}
+.header-1{
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkcyan;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    margin: 0px 0px 10px 0px;
+    
+   
+}
+
+.div-1{
+    background-color: yellow;
+    border: 1px solid blue;
+    text-align: center;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 50%;
+}
+
+.home{
+    display: flex;
+    justify-content: end;
+}
+
+.home-1{
+    padding: 10px 15px;
+    background-color: palevioletred;
+    border: 1px solid blue;
+    
+    text-align: center;
+}
+
+.header-2{
+    margin: 0px 0px 10px 0px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkcyan;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    
+    
+}
+
+.div-2{
+    background-color: yellow;
+    border: 1px solid blue;
+    text-align: center;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 50%;
+}
+
+.header-2-home-1{
+    display: flex;
+    justify-content: end;
+
+}
+
+.brand{
+    padding:10px 15px;
+    font: bold;
+}
+
+.home2{
+    padding:10px 15px;
+    display: flex;
+    justify-content: end;
+}
+
+.home-2-login{
+    padding: 10px 15px;
+    
+    border: 1px solid green;
+    
+    text-align: center;
+
+}
+
+.home-2{
+    padding: 10px 15px;
+}
+
+.header-3{
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkcyan;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    margin: 0px 0px 10px 0px;
+    
+   
+}
+
+.home-3-spake{
+    border-radius: 50%;
+    border: 1px solid green;
+    background-color: blue;
+    text-align: center;
+    padding:20px 30px;
+}
+
+.home3{
+    padding:20px 30px;
+    display: flex;
+    justify-content: end;
+}
+.home-3{
+    padding: 10px 15px;
+}
+
+.header-4{
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkcyan;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    margin: 0px 0px 10px 0px;
+    
+   
+}
