@@ -42,11 +42,9 @@ function bai9(){
     let l = prompt ("số  l : "); 
    while(s.length<l){
     s="0"+s;
-
    }
  console.log(s);
 }
-bai9();
 
 function bai10() {
     
@@ -177,7 +175,5 @@ function bai17 (){
 
 
 }
-
-
 
 
