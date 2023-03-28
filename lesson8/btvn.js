@@ -159,11 +159,31 @@ function bai2(){
     
     for(let i=0;i<array2.length;i++){
         if(min>array2[i].length){
-            i=min;
+            min=array2[i].length;
         }
     }
-   
     console.log(min);
+     // 1  
+    //let  indexmin=0;
+    // min = array2[0].length();
+    // for (let i = 0 ; i<array2.length ; i++){
+    // if (array2[i].length<min){
+    // min = array2[i].length;
+    // indexmin = i ;
+    //}
+    //}
+    // console.log()
+
+    // 2 
+    // A.includes(B)=>có chứa => true || ko chứa => false 
+    // tạo mảng mới 
+    // for  nếu s[i].inclues(text) =>arr.push s[i]
+
+    // 3
+    
+    // new = []
+    // for str = s[i].slice(0,3)và new.push(str) 
+    // dùng slice để cắt chuỗi 
 }
 
 
