@@ -25,18 +25,18 @@ function kiemTraNgayThang(d, m, y) {
 
         case 2:
             if((y%4==0&&y%100!=0)||(y%400==0)){
-            if(d>0&&d<=28){
+            if(d>0&&d<=29){
                 console.log("Ngày tháng năm hợp lệ ");
                  }else{
-                console.log("Ngày tháng năm 0 hợp lệ ");
+                console.log("Ngày tháng năm 000 hợp lệ ");
 
                  }
             }
             else{
-                if(d>0&&d<=29){
+                if(d>0&&d<=28){
                     console.log("Ngày tháng năm hợp lệ ");
                      }else{
-                    console.log("Ngày tháng năm 0 hợp lệ ");
+                    console.log("Ngày tháng năm 000000 hợp lệ ");
                      }
             }
             
@@ -52,7 +52,7 @@ function kiemTraNgayThang(d, m, y) {
 
 
 }
-//kiemTraNgayThang(29, 2, 2020);
+kiemTraNgayThang(29, 2, 2020);
 
 
 let users = [
@@ -571,6 +571,9 @@ function findUserById(){
    // findUserById();
 function keywork (){
     let keywork = String(prompt("Hãy nhập vào một chuỗi "));
+    for (let user of users){
+
+    }
 
 
 }
